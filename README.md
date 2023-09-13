@@ -22,4 +22,6 @@ ext install plantuml
 
 ## 300 - Building Our Application
 
+Preview Diagram, Press Alt + D to start PlantUML preview (option + D on MacOS).
+
 ## 400 - Conclusion
