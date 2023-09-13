@@ -1,7 +1,8 @@
-@startuml blogging-context
-' !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
+@startuml autoware-context
+'!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
 ' uncomment the following line and comment the first to use locally
-' !include C4_Context.puml
-title Blogging System Context Diagram
+!include C4_Context.puml
+
+title System Context diagram for Autoware Auto and ROS2
 
 @enduml
