@@ -7,6 +7,8 @@ Based on "Intro to C4 Architecture Diagrams and C4 PlantUML extension" at https:
 
 Based on "C4 Model with PlantUML" at https://medium.com/software-architecture-foundations/software-architecture-modeling-with-c4-model-e9e61d952121
 
+Based on "Diagrams as Code – C4 diagrams with Azure icons" at https://andysprague.com/2023/01/11/diagrams-as-code-c4-diagrams-with-azure-icons/
+
 C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
 
 ## 100 - Introduction
