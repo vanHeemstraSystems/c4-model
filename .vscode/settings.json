@@ -2,9 +2,9 @@
     // "plantuml.jarArgs": [
     //     "-DRELATIVE_INCLUDE=."
     // ],
-    // "plantuml.commandArgs": [],
-    "plantuml.diagramsRoot": "../containers/app/c4plantuml/docs/diagrams",
-    "plantuml.exportOutDir": "../containers/app/c4plantuml/docs/diagrams/out"
+    "plantuml.commandArgs": [],
+    "plantuml.diagramsRoot": "containers/app/c4plantuml/docs/diagrams",
+    "plantuml.exportOutDir": "containers/app/c4plantuml/docs/diagrams/out",
     // "plantuml.exportFormat": "png",
-    // "plantuml.exportSubFolder": false
+    "plantuml.exportSubFolder": true
 }
