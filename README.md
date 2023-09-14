@@ -13,11 +13,15 @@ Based on "sprague.andy.plantuml.c4" at https://github.com/andysprague44/sprague.
 
 Based on "Plant UML in Visual Studio Code // Config file" at https://stackoverflow.com/questions/66709936/plant-uml-in-visual-studio-code-config-file?rq=1
 
+Based on "How to use PlantUML in VSCode" at https://spencerfeng.medium.com/how-to-use-plantuml-in-vscode-389896215876
+
 C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures. The addition of Azure icons helps to visualize Azure systems too.
 
 ## 100 - Introduction
 
-Read "Diagrams as Code – C4 diagrams with Azure icons" at https://andysprague.com/2023/01/11/diagrams-as-code-c4-diagrams-with-azure-icons/
+- Read "Diagrams as Code – C4 diagrams with Azure icons" at https://andysprague.com/2023/01/11/diagrams-as-code-c4-diagrams-with-azure-icons/
+
+- Read "How to use PlantUML in VSCode" at https://spencerfeng.medium.com/how-to-use-plantuml-in-vscode-389896215876
 
 ## 200 - Requirements
 
