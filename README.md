@@ -17,6 +17,8 @@ C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a s
 
 ## 100 - Introduction
 
+Read "Diagrams as Code – C4 diagrams with Azure icons" at https://andysprague.com/2023/01/11/diagrams-as-code-c4-diagrams-with-azure-icons/
+
 ## 200 - Requirements
 
 - PlantUML Extension for Visual Studio Code
