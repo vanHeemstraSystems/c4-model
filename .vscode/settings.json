@@ -1,0 +1,8 @@
+{
+    "plantuml.jarArgs": [
+        "-DRELATIVE_INCLUDE=."
+    ],
+    "plantuml.commandArgs": [],
+    "plantuml.diagramsRoot": "../containers/app/c4plantuml",
+    "plantuml.exportOutDir": "../containers/app/c4plantuml/png"
+}
