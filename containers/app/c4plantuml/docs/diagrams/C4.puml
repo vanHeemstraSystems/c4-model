@@ -1,3 +1,4 @@
+@startuml c4_plantuml
 ' C4-PlantUML
 
 'Version
@@ -1030,7 +1031,6 @@ $elementSkin
   !$baseProp = $getElementBase($label, $techn, $descr, $sprite) + $getProps()
   !$stereo = $toStereos($elementType,$tags)
   !$calcLink = $getLink($link)
-  
   !$line = $umlShape + " " + %chr(34) + $baseProp + %chr(34) +" " + $stereo + " as " + $alias + $calcLink
   !return $line
 !endfunction
@@ -1564,3 +1564,4 @@ $from -[hidden]L- $to
 !unquoted procedure Lay_Distance($from, $to, $distance="0")
 $from $getHiddenLine($distance) $to
 !endprocedure
+@enduml

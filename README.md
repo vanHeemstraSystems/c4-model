@@ -28,13 +28,15 @@ Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter
 ext install plantuml
 ```
 
-Install extension 'plantuml' and leave all default settings. Test correct installation by opening testdot.puml and previewing with Alt + D. Should see preview with PlantUML version, and message "Installion seems OK"
-
 Also Graphviz is required. On Linux you can install Graphviz as follows:
 
 ```
 $ sudo apt install graphviz
 ```
+
+Install extension 'plantuml' and leave all default settings. Test correct installation by opening testdot.puml and previewing with Alt + D. Should see preview with PlantUML version, and message "Installion seems OK". 
+
+**Note**: If you have not installed GraphViz first, you may get an error as a message instead of an OK.
 
 ### To update diagram
 
