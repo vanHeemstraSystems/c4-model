@@ -64,7 +64,7 @@ Also you can generate images from your puml files (e.g. ```C1_SystemContext.wsd`
 
 ```
 $ cd containers/app/c4plantuml/docs/diagrams
-$ java -jar plantuml-1.2023.10.jar C1_SystemContext.wsd
+$ java -jar plantuml-1.2023.10.jar C1_SystemContext.wsd -exportSubFolder=true
 ```
 
 **TIP**: Help with plantuml can be retrieved as follows: ```$ java -jar plantuml-1.2023.10.jar -h```
